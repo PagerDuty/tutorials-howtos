@@ -18,7 +18,8 @@ theme:
 # Contents
 nav:
   - Home: 'index.md'
-  - Service Graph: 'sgraph.md'
+  - Gain Visibility:
+    - Service Graph: 'features/sgraph.md'
 
 # Analytics
 google_analytics: ['UA-8759953-1', 'auto']
