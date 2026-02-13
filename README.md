@@ -1,13 +1,11 @@
 # tutorials-howtos
-Collection of tutorial and HowTo documentation
+Collection of Tutorial and HowTo Documentation
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ad5904c7-17c2-42b2-95b5-86f5d3757e17/deploy-status)](https://app.netlify.com/sites/postincident-howie/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3307c2a5-1811-48dc-9a5f-cb1f17e92000/deploy-status)](https://app.netlify.com/projects/pagerduty-tutorials/deploys)
 
-This is an Open Source version of the Howie guide originally published by Jeli. Welcome to the PagerDuty family, Jeli!
 
-You can view the documentation directly in this repository, or rendered as a website at https://howie-guide.pagerduty.com.
+You can view the documentation directly in this repository, or rendered as a website at [pagerduty-tutorials.netlify.app](pagerduty-tutorials.netlify.app)
 
-[![PagerDuty Postincident Howie](screenshot.png)](https://howie-guide.pagerduty.com)
 
 ## Development
 We use [MkDocs](http://www.mkdocs.org/) to create a static site from this repository.
@@ -50,7 +48,7 @@ Thank you for considering contributing! If you have any questions, just ask - or
 
 Here is our preferred process for submitting a pull request,
 
-1. Fork it ( https://github.com/PagerDuty/postincident-howie-docs/fork )
+1. Fork it ( https://github.com/PagerDuty/pagerduty-tutorials/fork )
 1. Create your feature branch (`git checkout -b my-new-feature`)
 1. Commit your changes (`git commit -am 'Add some feature'`)
 1. Push to the branch (`git push origin my-new-feature`)
