@@ -25,6 +25,9 @@ nav:
     - Content-Based Alert Grouping: 'features/agrouping'
     - Intelligent Alert Grouping: 'features/igrouping'
     - Global Alert Grouping: 'features/ggrouping'
+  - Automate Manual Tasks:
+    - Runbook Automation: 'features/runbook.md'
+    - Automation Actions: 'features/aactions.md'
   - Gain Visibility:
     - Service Graph: 'features/sgraph.md'
     - Business Service Subscriptions: 'features/bizsubs.md'
