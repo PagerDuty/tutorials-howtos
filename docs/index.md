@@ -41,10 +41,18 @@ Alert fatigue has origins in neuroscience. Learn more on our [podcast](https://w
 
 
 #### Automate Manual Tasks:
+Automation is your friend in managing realtime work, avoiding waking human responders after hours, and for increasing speed and reliability in everyday tasks for your team. 
+
+- [Runbook Automation](features/runbook) and Rundeck Open Source is a platform for managing and running automation tools - add your existing scripts and tools and provide users with a secure, auditable platform for automated tasks.
+- [Automation Actions](features/aactions) brings Runbook Automation into your PagerDuty platform, powering autoremediation solutions for your teams.
+  
+Not sure what we mean by automation or autoremediation? Check out our [Ops Guide](https://autoremediation.pagerduty.com){target="_blank"}.
 
 #### Gain Visibility into Infrastructure:
 Your users only know the "front door" of your services and applications, but your architecture has plenty of hidden complexity. Make sure all stakeholders can be informed, even if they aren't familiar with the services.
 
-- [Service Graph and Service Dependencies](features/sgraph)
-- [Status Pages](features/spages)
-- [Business Service Subscriptions](features/bizsubs)
+- [Service Graph and Service Dependencies](features/sgraph) allows your team to document the relationships and dependencies among your services, illuminating which downstream services are potentially impacted by an ongoing incident.
+- [Status Pages](features/spages) give you a centralized location to publish incident updates to your interal and external stakeholders.
+- [Business Service Subscriptions](features/bizsubs) are an easy way for stakeholders to stay aware of user-facing services impacted by incidents in the backend layers of your ecosystem.
+
+Maintaining good service ownership hygeine will make finding responders much easier during an incident, but it can be complex to figure out who should own what services. For more on Full Service Ownership, check out our [Ops Guide](https://ownership.pagerduty.com){target="_blank"}
