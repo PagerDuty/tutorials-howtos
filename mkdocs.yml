@@ -18,8 +18,17 @@ theme:
 # Contents
 nav:
   - Home: 'index.md'
+  - Improve MTTR:
+    - Incident Workflows: 'features/iworkflows.md'
+    - Event Orchestration: 'features/eo.md'
+  - Alert Fatigue:
+    - Content-Based Alert Grouping: 'features/agrouping'
+    - Intelligent Alert Grouping: 'features/igrouping'
+    - Global Alert Grouping: 'features/ggrouping'
   - Gain Visibility:
     - Service Graph: 'features/sgraph.md'
+    - Business Service Subscriptions: 'features/bizsubs.md'
+    - Status Pages: 'features/spages.md'
 
 # Analytics
 google_analytics: ['UA-8759953-1', 'auto']
